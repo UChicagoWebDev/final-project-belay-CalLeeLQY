@@ -5,7 +5,13 @@
 **DUE: Friday, March 8 by 5:00pm**
 
 https://classroom.github.com/a/qeha1A1z
-
+## Readme
+- Name: Yutong Sun
+- Classmates: Yuzhuo Bai, Qinyu Li
+- configure: venv (for macOS)
+```
+. venv/bin/activate
+```
 ## Introduction
 
 As a capstone project for Web Development, we're going to combine the various
@@ -80,7 +86,7 @@ submission any classmates you collaborated with and any materials you consulted.
   posted to that channel while the user is in it are marked as read too
 - Check for new messages in the channel at least once every 500 ms. Stop
   checking if the user leaves the channel. (Hint: use SetInterval)
-- ***Check for new unread messages in other channels at least once every second.
+- Check for new unread messages in other channels at least once every second.
   Use only one HTTP request to get counts for all channels
 - For each message with replies, display the number of replies to that message
   just below the message content
