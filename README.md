@@ -6,8 +6,8 @@
 
 https://classroom.github.com/a/qeha1A1z
 ## Readme
-- Name: Yutong Sun
-- Classmates: Yuzhuo Bai, Qinyu Li
+- Name: Qinyu Li
+- Classmates: Yuzhuo Bai, Yutong Sun
 - configure: venv (for macOS)
 ```
 . venv/bin/activate
